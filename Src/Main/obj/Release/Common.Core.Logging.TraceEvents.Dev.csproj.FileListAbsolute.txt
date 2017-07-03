@@ -6,4 +6,3 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyC
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x64\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\msvcr100.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Common.Core.Logging.TraceEvents.Dev.csprojResolveAssemblyReference.cache
