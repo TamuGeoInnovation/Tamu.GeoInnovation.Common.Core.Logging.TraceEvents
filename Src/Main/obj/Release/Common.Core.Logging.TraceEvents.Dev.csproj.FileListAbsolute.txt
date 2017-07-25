@@ -1,8 +1,8 @@
 D:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
 D:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
-C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x64\msvcr100.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x64\SqlServerSpatial110.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\msvcr100.dll
 C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\SqlServerTypes\x86\SqlServerSpatial110.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
+C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
