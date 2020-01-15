@@ -7,3 +7,6 @@ C:\DevSource\Tamu\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Rel
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Common.Core.Logging.TraceEvents.Dev.csprojAssemblyReference.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Common.Core.Logging.TraceEvents.Dev.csproj.CoreCompileInputs.cache
 C:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Common.Core.Logging.TraceEvents.Dev.csproj.CopyComplete
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\build\1.0.0\AnyCPU\release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Common.Core.Logging.TraceEvents.Dev.csprojAssemblyReference.cache
+D:\DevSource\TAMU\GeoInnovation\Common.Core.Logging.TraceEvents\Src\Main\obj\Release\Tamu.GeoInnovation.Common.Core.Logging.TraceEvents.dll
